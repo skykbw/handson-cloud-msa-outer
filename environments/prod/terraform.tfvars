@@ -1,4 +1,4 @@
-environment = "dev"
+environment = "prod"
 project_id = "architect-certification-289902"
 member_id  = "21"
 region     = "asia-east1"
